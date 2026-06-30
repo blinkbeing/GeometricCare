@@ -1,4 +1,2 @@
 # GeometricCare
-
-A-I---e-n-a-b-l-e-d---h-e-x-a-g-o-n-a-l---h-o-s-p-i-t-a-l---b-e-d-.---F-a-l-l---p-r-e-v-e-n-t-i-o-n-,---u-n-i-v-e-r-s-a-l---i-n-t-e-r-o-p-e-r-a-b-i-l-i-t-y-,---a-n-d---g-e-o-m-e-t-r-i-c---r-e-d-e-s-i-g-n---o-f---c-l-i-n-i-c-a-l---i-n-f-r-a-s-t-r-u-c-t-u-r-e-.
 Geometric Care replaces the centuries-old rectangular hospital bed with an intelligent hexagonal platform. Open hardware and software. AI fall prevention, 10-point clinical access, universal interoperability, auto-documentation. For a system that predates germ theory and the stethoscope. The reaching hand deserves more than rail and void.
